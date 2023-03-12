@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel 👋
-<p>Welcome to my page! </br> Developer from <img src= "https://www.flaticon.es/icono-gratis/argentina_330487">
+<p>Welcome to my page! </br> 
 
-**<b>Tucumán, Argentina</b>** (https://iconos8.es/icon/dKLK6XLLq7Nb/argentina).
+**<b>Tucumán, Argentina</b>**
 <h3>Things I code with</h3>
 
 <!--
