@@ -2,7 +2,12 @@
 **<b> from Tucumán, Argentina</b>**
 I am a graphic designer and I like to develop projects in Wordpress. <br/> I am currently studying the JS Undefined Academy Bootcamp taught by Guillermo Rodas.
 <p>Welcome to my page! </br> 
+> 👨🏻‍💻 Web Front-end Developer
 
+### Tech Stack
+
+- 🛠 Lang & Framework: Vue/React, Javascript
+- ⛏ Interest: Svelte, Typescript
 
 <h3>Things I code with</h3>
 
