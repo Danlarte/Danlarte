@@ -4,6 +4,7 @@
 I am a graphic designer and I like to develop projects in Wordpress. <br/> I am currently studying the JS Undefined Academy Bootcamp taught by Guillermo Rodas.
 <p>Welcome to my page! </br> 
 
+!(<iframe src="https://giphy.com/embed/Xbjut97XRr1aU" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-90s-Xbjut97XRr1aU">via GIPHY</a></p>)
 
 ### Tech Stack
 
