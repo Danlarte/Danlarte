@@ -6,21 +6,6 @@ I am a graphic designer and I like to develop projects in Wordpress. <br/> I am 
 
 <h3>Things I code with</h3>
 
-<!--
-**Danlarte/Danlarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -37,3 +22,7 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+##Social Media##
+[![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flatsquare&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serlibr)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lazarte-a566ba67/)](https://www.linkedin.com/in/midhruvjaink/)
+
