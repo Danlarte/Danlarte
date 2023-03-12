@@ -24,5 +24,5 @@ I am a graphic designer and I like to develop projects in Wordpress. <br/> I am 
 </p>
 
 ##Social Media##
-[![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flatsquare&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serlibr)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lazarte-a566ba67/)](https://www.linkedin.com/in/midhruvjaink/)
+[![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flatsquare&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serlibr)] [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lazarte-a566ba67/)](https://www.linkedin.com/in/midhruvjaink/)
 
